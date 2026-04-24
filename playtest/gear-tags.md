@@ -20,7 +20,7 @@ nav_order: 3
 | *shred*       | If attack deals damage to HP or BOD, target's Armor is reduced by 1                                                                                                           |
 | *destructive* | Attacks reduce cover by 2, instead of 1.                                                                                                                                      |
 | *shock*       | Target must succeed on a BOD save or fall prone.                                                                                                                              |
-| *slow*        | Automatically fail AGL check to act first at the start of combat.                                                                                                             |
+| *slow*        | Automatically fail AGL save to act first at the start of combat.                                                                                                             |
 | *loud*        | Easily heard by anyone within 100 metres.                                                                                                                                     |
 | *quiet*       | Difficult to hear by anyone further away than 2 metres.                                                                                                                       |
 | *petty*       | Does not take up any inventory slots.                                                                                                                                         |

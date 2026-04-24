@@ -12,9 +12,9 @@ nav_order: 1
 
 Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
 
-- **Agility (**AGL**)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Body (**BOD**)**: Used for saves requiring physical power, like lifting gates, breaking doors, resisting drugs, etc.
-- **Control (**CTR**)**: Used for saves to persuade, deceive, keep composure, interface with technology, etc.
+- **Agility (AGL)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
+- **Body (BOD)**: Used for saves requiring physical power, like lifting gates, breaking doors, resisting drugs, etc.
+- **Control (CTR)**: Used for saves to persuade, deceive, keep composure, interface with technology, etc.
 
 ## Saves
 
@@ -113,12 +113,12 @@ On their turn, a character may move up to 40ft and take up to one action. This m
 
 ### Critical Damage
 
-- Damage that reduces a target's **STA** below zero is subtracted _from their BOD_ by the amount of damage remaining. The target must then immediately make a **BOD** save to avoid taking **Critical Damage**, using their _new **BOD** score_. On a failure, they gain a **Wound** in an inventory slot. See [Wounds](/playtest/wounds-and-strain#wounds) for more.
+- Damage that reduces a target's **STA** below zero is subtracted from their **BOD** by the amount of damage remaining. The target must then immediately make a **BOD** save to avoid taking **Critical Damage**, using their _new **BOD** score_. On a failure, they gain a **Wound** in an inventory slot. See [Wounds](/playtest/wounds-and-strain#wounds) for more.
 - NPCs and monsters that fail a Critical Damage save are considered dead, per the **Admin's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 ### Critical Stress
 
-- Stress that reduces a target's **STA** below zero is subtracted _from their CTR_ by the amount of stress remaining. The target must then immediately make a **CTR** save to avoid taking **Critical Stress**, using their _new **CTR** score_. On a failure, they gain a **Strain** in an inventory slot. See [Strain](/playtest/wounds-and-strain#strain) for more.
+- Stress that reduces a target's **STA** below zero is subtracted from their **CTR** by the amount of stress remaining. The target must then immediately make a **CTR** save to avoid taking **Critical Stress**, using their _new **CTR** score_. On a failure, they gain a **Strain** in an inventory slot. See [Strain](/playtest/wounds-and-strain#strain) for more.
 - NPCs and monsters that fail a Critical Stress save must make a morale check, per the **Admin's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical stress save.
 
 

@@ -7,11 +7,11 @@ nav_order: 6
 
 # Research Projects
 
-> Prototypes are the result of immeasurable research funding, and are impossible to obtain through normal means.
+> Prototypes are the result of immeasurable capital investment, and are impossible to obtain through normal means. Corporations will ruthlessly pursue missing prototypes.
 
 ## Flatline Engram
 
-- A digitized recording of the personality of a famous dead hacker, Dixie. When plugged into a cyberdeck they assist with deploying hacks.
+- A digitized recording of the personality of a famous dead hacker. When plugged into a cyberdeck they assist with deploying hacks.
 - Roll the stress die twice, taking the lower result for yourself and the higher result for your target.
 
 ## Experimental "Martinez" Speedware
