@@ -5,8 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an adventure game about exploring a dark and mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, adventures are tense and reward careful exploration, and combat is frantic and deadly. The game was written by [Yochai Gal](https://newschoolrevolution.com). There are now multiple editions (see sidebar) that are all rules-compatible.
+Hardware is a cyberpunk game of survival in a dark future of criminals, corporations, opportunity, and a city that grinds away your humanity. Character generation is quick, scenarios are tense rewarding careful planning, and combat is fast-paced, tactical and deadly. 
 
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find the source files [here](https://github.com/yochaigal/cairn).
+The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find the source files [here](https://github.com/joecargill/hardwarerpg).
 
-This is a game that values community contributions! If you'd like to submit an adventure, hack, monster, or conversion take a look at the [submission guide](/submissions/submission-guide).
+Inspired by Neuromancer & Cyberpunk 2077. The rules are built upon [Cairn](https://cairnrpg.com), with influences from [Liminal Horror](https://liminalhorrorrpg.com), [Monolith](https://adamhensley.itch.io/monolith), [CY_BORG](https://cyborg.exlibrisrpg.com/entries/system-reference).
+

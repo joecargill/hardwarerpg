@@ -2,29 +2,61 @@
   --background-color: #26252b;
   --heading-color: #e3e9f0;
   --text-color: #c9d1d9;
-  --link-color: #f2c488;
+  --link-color: #fff;
   --visited-color: #26252b;
 }
 
 @font-face {
-  font-family: 'Alegreya';
-  src: local('Alegreya Regular'), url('/fonts/static/Alegreya-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Alegreya';
-  src: local('Alegreya Bold'), url('/fonts/static/Alegreya-Bold.woff2') format('woff2');
+  font-family: 'Motion Control';
+  src: local('Motion Control Bold'), url('/fonts/static/MotionControl-Bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Alegreya';
-  src: local('Alegreya Italic'), url('/fonts/static/Alegreya-Italic.woff2') format('woff2');
+  font-family: 'Motion Control';
+  src: local('Motion Control Italic'), url('/fonts/static/MotionControl-BoldItalic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Silom';
+  src: local('Silom'), url('/fonts/static/Silom.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  src: local('Space Grotesk Regular'), url('/fonts/static/SpaceGrotesk-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chakra Petch';
+  src: local('Chakra Petch Regular'), url('/fonts/static/ChakraPetch-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chakra Petch';
+  src: local('Chakra Petch Bold'), url('/fonts/static/ChakraPetch-Bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chakra Petch';
+  src: local('Chakra Petch Italic'), url('/fonts/static/ChakraPetch-Italic.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -32,18 +64,27 @@
 
 
 body {
-  font-family: 'Alegreya', Georgia, serif;
+  font-family: 'Space Grotesk', Georgia, serif;
+  font-size: 1.1rem;
   background-color: var(--background-color);
   color: var(--text-color);
-  font-size: 1.25rem; /* 20px */
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
+  font-family: 'Chakra Petch', Georgia, serif;
   color: var(--heading-color);
   font-weight: 600;
+}
+
+h2 {
+  font-size: 1.6rem !important;; 
+}
+
+h3 {
+  font-family: 'Space Grotesk', Georgia, serif;
+  font-size: 1.3rem !important;
 }
 
 a {
@@ -62,6 +103,12 @@ th, td {
   padding-bottom: 0.35rem;
   padding-right: 0.5rem;
   padding-left: 0.5rem;
+
+  font-size: 0.8rem !important;
+
+  @media (max-width: 768px) {
+    font-size: 0.75rem !important;
+  }
 }
 
 tr:nth-child(even) td {
@@ -97,6 +144,31 @@ img {
 .side-bar .nav-list, 
 .side-bar .nav-list-item, 
 .side-bar .nav-list-link {
-  font-size: 1.25rem; /* 20px */
-  font-family: 'Alegreya', Georgia, serif;
+  font-size: 1.15rem; /* 20px */
+  font-family: 'Space Grotesk', Georgia, serif;
+}
+
+strong, b {
+  font-family: 'Chakra Petch', Georgia, serif;
+  font-size-adjust: 0.5;
+}
+
+.main-header {
+  border-color: #fcee0a !important;
+}
+
+header, .site-header {
+  border-color: #fcee0a !important;
+
+  @media (max-width: 768px) {
+    .site-header {
+      border-bottom: 1px solid #fcee0a !important;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .main-header {
+    border-color: var(--border-color) !important;
+  }
 }

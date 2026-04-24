@@ -1,9 +1,10 @@
-title: Cairn
+title: Hardware RPG
 permalink: pretty
 remote_theme: pmarsceill/just-the-docs
-site.url: https://cairnrpg.com
+site.url: https://hardwarerpg.com
+search_enabled: true
 logo: "/img/logo.svg"
-color_scheme: dark
+color_scheme: custom
 encoding: UTF-8
 plugins:
   - jekyll-redirect-from
