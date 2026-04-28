@@ -12,18 +12,20 @@ nav_order: 2
 |                                  |        |
 | -------------------------------- | ------ |
 | Medkit                           | 100    |
+| Stimpak (regain d6 STA)          | 200    |
+| Drug Nebulizer (_petty_)         | 25     |
 | Flashlight                       | 20     |
 | Telescopic Ladder                | 100    |
-| Lighter                          | 5      |
-| Blowtorch                        | 200    |
-| Lockpick Kit (electronic)        | 350    |
-| Lockpick Kit (mechanical)        | 150    |
-| Magnesium Strip                  | 5      |
+| Lighter (_petty_)                | 5      |
+| Cutting torch                    | 200    |
+| Electronic Lockpick Kit          | 350    |
+| Mechanical Lockpick Kit          | 150    |
+| Magnesium Strip (_petty_)        | 5      |
 | Paracord                         | 40     |
 | Keycard Skimmer                  | 300    |
 | Ultraglue                        | 50     |
 | Superlube                        | 50     |
-| Zip Ties                         | 5      |
+| Zip Ties (_petty_)               | 5      |
 | Backpack                         | 50     |
 | Breathing Mask                   | 250    |
 | Crowbar                          | 50     |
@@ -32,3 +34,4 @@ nav_order: 2
 | Pulverized Acid                  | 150    |
 | Noisemaker                       | 75     |
 | Grappling Hook                   | 25     |
+| Credchip, empty (_petty_)        | 5      |

@@ -188,7 +188,7 @@ Roll 1d20 for each column and combine the results.
 
 _A snail-like creature with a hard shell. It moves only in straight lines, and has a soft underbelly. It rolls into opponents, pulling them into its wild orbit. The roar of its movement drowns out any other sounds._
 
-This creature is physically tough, with higher than average **BOD** and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
+This creature is physically tough, with higher than average BOD and strong armor. It is probably fast but not maneuverable, and likely doesn't rely on skill or dexterity to avoid danger. It is brutish, but it is still a wild beast and only as willful as any creature just looking for its next meal. It attacks by rolling in a straight line and should impact multiple targets.
 
 ### Thunder Snail
 
@@ -201,16 +201,16 @@ This creature is physically tough, with higher than average **BOD** and strong a
 
 There is no perfect system for converting from other systems. Here are some tips that might help with the process!
 
-- **Hit Protection**: A good rule of thumb is to give the creature +1 STA for every **HD**, on top of a minimum **3 STA** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **STA** _first_, _then_ do their **BOD**.
+- **Hit Protection**: A good rule of thumb is to give the creature +1 STA for every **HD**, on top of a minimum **3 STA** (the average person). I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5. Always start with a creature's **STA** _first_, _then_ do their BOD.
 - **Armor**: Look for phrases like "as leather" and "as plate" in the original stat blocks. When converting from B/X style games like Old School Essentials, ignore THAC0 and use descending AC whenever possible (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given, you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3 only.
-- **Body**: Look at the creature's **HD** and **STA**. If a creature is difficult to kill but _not_ because they are nimble or skilled, give them more **BOD** (but _not_ more **STA**). Start with 10 **BOD** (the average) and go up or down from there.
+- **Body**: Look at the creature's **HD** and **STA**. If a creature is difficult to kill but _not_ because they are nimble or skilled, give them more BOD (but _not_ more **STA**). Start with 10 BOD (the average) and go up or down from there.
 - **Agility**: Start with **10** as a base, and if the creature is particularly quick (often referred to as "speed" or SP), agile, or nimble-fingered, raise the number. If it is slow to respond, bulky, or clumsy, lower the number. See [Saving Throws](#saving-throws) below for more!
-- **Control**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the CTR they should have. The following table offers a decent guide on converting **ML** to **CTR**.
+- **Control**: **Morale** (**ML**) can be a good guidepost, and it typically ranges between 2-12. The greater the creature's personality, spirit, or presence, the higher the CTR they should have. The following table offers a decent guide on converting **ML** to CTR.
 
 |         |   |    |    |    |
 |---------|---|----|----|----|
 | **ML**  | 4 | 8  | 10 | 12 |
-| **CTR** | 6 | 12 | 15 | 18 |
+| CTR | 6 | 12 | 15 | 18 |
 
 ### Saving Throws
 
@@ -220,11 +220,11 @@ There is no perfect system for converting from other systems. Here are some tips
 
 |                                |                    |
 | ------------------------------ | ------------------ |
-| **Death or Poison**            | **BOD**            |
-| **Wands**                      | **AGL**            |
-| **Paralysis or Petrification** | **CTR** or **BOD** |
-| **Breath Attacks**             | **AGL** or **BOD** |
-| **Spells, Rods or Staves**     | **CTR**            |
+| **Death or Poison**            | BOD            |
+| **Wands**                      | AGL            |
+| **Paralysis or Petrification** | CTR or BOD |
+| **Breath Attacks**             | AGL or BOD |
+| **Spells, Rods or Staves**     | CTR            |
 
 ### Combat
 
@@ -269,7 +269,7 @@ _**Using the example above, I can see that she:**_
 _**What can we learn from this?**_
 - She's fast, and probably savvy in a fight. If we start from **3 STA** and add 1 **STA** per **HD**, that means she has **8 STA**.
 - I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. A normal human has 10 **BOD** and she's a little bigger. **12 BOD**.
+- She is decently strong. A normal human has 10 BOD and she's a little bigger. **12 BOD**.
 - I can imagine her hunting prey over the snowy tundra. She's fast. **14 AGL**.
 - Her **ML** is high, and foxes are known for their cunning. **15 CTR**.
 - For her attacks, I'd go with claws (d6+d6) and bite (d8).
