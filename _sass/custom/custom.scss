@@ -49,8 +49,16 @@
 @font-face {
   font-family: 'Chakra Petch';
   src: local('Chakra Petch Bold'), url('/fonts/static/ChakraPetch-Bold.ttf') format('truetype');
-  font-weight: 600;
+  font-weight: 700;
   font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Chakra Petch';
+  src: local('Chakra Petch BoldItalic'), url('/fonts/static/ChakraPetch-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
   font-display: swap;
 }
 
@@ -62,10 +70,44 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'Barlow';
+  src: local('Barlow Regular'), url('/fonts/static/Barlow-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow';
+  src: local('Barlow Italic'), url('/fonts/static/Barlow-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow';
+  src: local('Barlow Bold'), url('/fonts/static/Barlow-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Barlow';
+  src: local('Barlow Bold Italic'), url('/fonts/static/Barlow-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+
 
 body {
-  font-family: 'Space Grotesk', Georgia, serif;
-  font-size: 1.1rem;
+  font-family: 'Barlow', Georgia, serif;
+  font-size: 1rem;
   background-color: var(--background-color);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
@@ -73,18 +115,26 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Chakra Petch', Georgia, serif;
   color: var(--heading-color);
   font-weight: 600;
 }
 
+h1, h2 {
+  font-family: 'Chakra Petch', Georgia, serif;
+}
+
 h2 {
-  font-size: 1.6rem !important;; 
+  // font-size: 1.6rem !important;
+  // margin-top: 4rem !important;
+}
+
+h2:not(:first-of-type) {
+  margin-top: 3rem !important;
 }
 
 h3 {
-  font-family: 'Space Grotesk', Georgia, serif;
-  font-size: 1.3rem !important;
+  font-family: 'Barlow', Georgia, serif;
+  font-size: 1.2rem !important;
 }
 
 a {
@@ -149,8 +199,8 @@ img {
 }
 
 strong, b {
-  font-family: 'Chakra Petch', Georgia, serif;
-  font-size-adjust: 0.5;
+  // font-family: 'Silom', Georgia, serif;
+  // font-size-adjust: 0.52;
 }
 
 .main-header {
