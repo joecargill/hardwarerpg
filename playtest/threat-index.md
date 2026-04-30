@@ -50,7 +50,7 @@ nav_order: 6
 2 Armor, 1 Damping, 12 STA, 16 BOD, 14 AGL, 4 CTR, arm blades (d8+d8), redline (d6, _cyberware_) or speedware (d8, _cyberware_)
 
 - Individuals who have pushed their nervous system past the breaking point with heavy cyberware. Highly unpredictable and violent.
-- **Critical Damage**: Their attack causes massive bleeding, dealing an extra d4 BOD damage. Target is _deprived_ from blood loss.
+- **Critical Damage**: Their attack causes massive bleeding. Target is _deprived_ from blood loss.
 
 
 ## Industrial Servitor

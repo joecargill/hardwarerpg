@@ -79,7 +79,9 @@ Expensive and risky, rebuilds an aspect of your body from the ground up.
 | Cerebral Overhaul      | Roll 3d6, taking the result as your new CTR attribute. | 18,000 |
 
 
-## Contractors (per day)
+## Contractors
+
+Priced per day, with additional hazard pay for dangerous jobs (typically getting a cut).
 
 |             |       |
 | ----------- | ----- |

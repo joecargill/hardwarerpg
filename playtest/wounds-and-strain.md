@@ -19,15 +19,15 @@ Roll 1d8 for location if required.
 
 **1**: Neck, **2**: Hands, **3**: Eye, **4**: Chest, **5**: Leg, **6**: Arm, **7**: Rib, **8**: Head.
 
-|                          |                                                                                  |                   |                 |                   |
-| ------------------------ | -------------------------------------------------------------------------------- | ----------------- | --------------- | ----------------- |
-|                          |                                                                                  | **Gunshot**       | **Cutting**     | **Crushing**      |
-| **1-2**<br>*Superficial* | Flesh wound.                                                                     | Graze             | Shallow cut     | Bruise            |
-| **3-4**<br>*Minor*       | Pain and shock rattle you. Describe how you refocus.                             | Clean through     | Deep laceration | Hairline fracture |
-| **5-6**<br>*Serious*     | Hamstrung. Your attacks are _impaired_.                                          | Lodged projectile | Severed muscle  | Concussion        |
-| **7-8**<br>*Major*       | You can barely move until you get serious help and rest.                         | Shattered bone    | Cut to the bone | Broken limb       |
-| **9-10**<br>*Critical*   | A limb is missing or useless. You die within one hour without medical attention. | Destroyed limb    | Severed limb    | Mangled limb      |
-| **11-12**<br>*Lethal*    | _Deprived_. You die the next time you fail a Critical Damage save.               | Massive hole      | Severed artery  | Shattered skull   |
+|                          |                                                                                                  |                   |                 |                   |
+| ------------------------ | ------------------------------------------------------------------------------------------------ | ----------------- | --------------- | ----------------- |
+|                          |                                                                                                  | **Gunshot**       | **Cutting**     | **Crushing**      |
+| **1-2**<br>*Superficial* | Flesh wound.                                                                                     | Graze             | Shallow cut     | Bruise            |
+| **3-4**<br>*Minor*       | Pain and shock rattle you. Describe how you refocus.                                             | Clean through     | Deep laceration | Hairline fracture |
+| **5-6**<br>*Serious*     | Hamstrung. Your attacks are _impaired_.                                                          | Lodged projectile | Severed muscle  | Concussion        |
+| **7-8**<br>*Major*       | You can barely move until you get serious help and rest.                                         | Shattered bone    | Cut to the bone | Broken limb       |
+| **9-10**<br>*Critical*   | A limb is missing or useless. You die from blood loss within one hour without medical attention. | Destroyed limb    | Severed limb    | Mangled limb      |
+| **11-12**<br>*Lethal*    | _Deprived_. You die the next time you fail a Critical Damage save.                               | Massive hole      | Severed artery  | Shattered skull   |
 
 ### Wound recovery
 
