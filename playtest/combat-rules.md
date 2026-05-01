@@ -62,10 +62,8 @@ Before calculating Damage to STA, subtract the target's **Cover** value from the
 
 Cover has two tiers: 
 
-|                      |                                     |
-| -------------------- | ----------------------------------- |
-| **Light Cover** (+1) | Wooden crates or a short wall       |
-| **Heavy Cover** (+2) | Concrete pillars or a large vehicle |
+- **Light Cover** (+1 cover) such as wooden crates or a short wall.
+- **Heavy Cover** (+2 cover) such as concrete pillars or a large vehicle.
 
 Attacks on targets behind cover cause that cover to degrade a tier, until destroyed.
 
@@ -81,13 +79,9 @@ A PC, NPC, or other creatures cannot have more than 3 Damping.
 
 ## Ranged Attacks
 
-Ranged weapons can target any enemy within sight. 
+Ranged weapons can target any enemy within sight, and **Ammo** is normally only tracked after combat.
 
-Attacks against especially distant targets are _Impaired_.
-
-When an enemy is beside you, ranged attacks are _Impaired_ - unless the enemy is _Impaired_.
-
-**Ammo** usage is only tracked after combat (in most cases).
+Attacks against especially distant targets or when an unimpaired enemy is beside you are _impaired_.
 
 Some effects specify a range at which they apply. Use the following ranges as a rough guide:
 

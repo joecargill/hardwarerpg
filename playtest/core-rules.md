@@ -12,11 +12,11 @@ nav_order: 1
 
 Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
 
-**Agility (AGL)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
+- **Agility (AGL)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
 
-**Body (BOD)**: Used for saves requiring physical power, like lifting gates, breaking doors, resisting drugs, etc.
+- **Body (BOD)**: Used for saves requiring physical power, like lifting gates, breaking doors, resisting drugs, etc.
 
-**Control (CTR)**: Used for saves to persuade, deceive, keep composure, interface with technology, etc.
+- **Control (CTR)**: Used for saves to persuade, deceive, keep composure, interface with technology, etc.
 
 ## Saves
 
@@ -25,6 +25,25 @@ A save is a roll to avoid negative outcomes from risky choices. Characters roll 
 If two opponents are each trying to overcome the other, whoever is most at risk should save.
 
 If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+
+
+### Difficulty
+
+Sometimes a situation or circumstance may influence the difficulty of succeeding, affecting a PCs chance of success. In these cases, the Admin may describe the task as **Easy** or **Hard**. 
+
+- **Easy** saves roll a d20 twice and take the best result.
+
+- **Hard** saves roll a d20 twice ans take the worst result.
+
+
+### Time, Tools, and Training
+
+If a PC wants to perform a task, use the "time, tools and training" framework to determine when a save may be required. If none or one of three requirements are met, the task is usually impossible. When two requirements are met, request the most applicable save roll. If all three requirements are fulfilled, the PC succeeds automatically.
+
+- **Time**: there is no urgent time pressure on the PC to complete the task quickly.
+- **Tools**: the PC has access to the typical tools for the task.
+- **Training**: the PC has the relevant background or specific training to do the task.
+
 
 ## Stamina
 
