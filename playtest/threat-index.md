@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Threat Index
-parent: Playtest
+parent: Playtest v0.1
 nav_order: 6
 ---
 

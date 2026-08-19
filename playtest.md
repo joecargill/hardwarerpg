@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Playtest
+title: Playtest v0.1
 has_children: true
 nav_order: 2
 redirect_from: /wip/
 ---
 
-# Playtest
+# Playtest v0.1

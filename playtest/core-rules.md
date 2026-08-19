@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core Rules
-parent: Playtest
+parent: Playtest v0.1
 nav_order: 1
 ---
 

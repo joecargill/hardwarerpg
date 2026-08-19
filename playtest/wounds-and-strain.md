@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wounds & Strain
-parent: Playtest
+parent: Playtest v0.1
 nav_order: 3
 ---
 
