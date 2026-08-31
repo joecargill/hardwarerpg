@@ -107,13 +107,21 @@ When changing Ammo type in combat, you must discard your current Ammo from your 
 
 ## Critical Damage
 
-Damage that reduces a target's **Stamina** below zero is subtracted from their BOD by the amount of damage remaining. The target must then immediately make a BOD save to avoid taking **Critical Damage**, using their _new BOD score_. On a failure, they gain a **Wound** in an inventory slot. See [Wounds](/playtest/wounds-and-strain#wounds) for more.
+Damage that reduces a target's **Stamina** below zero is subtracted from their BOD by the amount of damage remaining. The target must then immediately make a BOD save to avoid taking **Critical Damage**, using their _new BOD score_. 
 
-NPCs and monsters that fail a Critical Damage save are considered dead, per the **Admin's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Upon taking **Critical Damage**, PCs gain a **Wound** in an inventory slot. Some wounds apply the _dying_ condition. See [Wounds](/playtest/wounds-and-strain#wounds) for more.
+
+**Dying** PCs cannot do anything but crawl weakly, grasping for life. If given aid (such as Medkits), they will stabilize. If left untreated, they die within the hour.
+
+NPCs and monsters that fail a **Critical Damage** save are considered dead, per the **Admin's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 ## Critical Stress
 
-Stress that reduces a target's **Stamina** below zero is subtracted from their CTR by the amount of stress remaining. The target must then immediately make a CTR save to avoid taking **Critical Stress**, using their _new CTR score_. On a failure, they gain a **Strain** in an inventory slot. See [Strain](/playtest/wounds-and-strain#strain) for more.
+Stress that reduces a target's **Stamina** below zero is subtracted from their CTR by the amount of stress remaining. The target must then immediately make a CTR save to avoid taking **Critical Stress**, using their _new CTR score_.
+
+Upon taking **Critical Stress**, PCs gain a **Strain** in an inventory slot
+
+On a failure, they gain a **Strain** in an inventory slot. See [Strain](/playtest/wounds-and-strain#strain) for more.
 
 NPCs and monsters that fail a Critical Stress save must make a morale check, per the **Admin's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical stress save.
 

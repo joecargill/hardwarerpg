@@ -7,7 +7,7 @@ nav_order: 4
 
 # Cyberware
 
-> All prices are in Creds
+> All prices are in Creds. Repairs cost 10% listed price.
 
 ### Protection
 
@@ -15,8 +15,8 @@ nav_order: 4
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | Kinetic Barrier | (2 Armor vs Ranged) Energy shield that slows high-speed projectiles. Immune to _shred_. **Trigger** (d4) to increase to 3 Armor until your next turn. | 10,000 |
 | Subdermal Armor | (+1 Armor, repairable) Reinforced plating under the skin.                                                                                             | 10,000 |
-| Neural Implant  | (+1 Buffer) Cyberdeck in your head.                                                                                                                  | 8,000  |
-| Self ICE        | (+1 Buffer) Software module providing a firewall against hacks.                                                                                      | 5,000  |
+| Neural Implant  | (+1 Buffer) Cyberdeck in your head.                                                                                                                   | 8,000  |
+| Self ICE        | (+1 Buffer) Software module providing a firewall against hacks and damping the neural load of activating cyberware.                                   | 5,000  |
 
 ### Weaponry
 
@@ -25,7 +25,7 @@ nav_order: 4
 | Projectile Launch System | (d8, _blast_, _destructive_, _reload_) Arm-mounted grenade launcher. _Concealed_ inside arm until used.                  | 2,500  |
 | Molly Razors             | (1d4+1d4 _piercing_) Four centimeter long blades under fingernails. _Concealed_ inside hands until used.                 | 1,500  |
 | Arm Blades               | (1d8+1d8) Long, piercing arm-mounted blades. _Concealed_ inside arms until used.                                         | 4,000  |
-| Anchor Arms              | (d6 unarmed) Synthetic-muscle arms replacement. Saves using raw strength are made with Advantage, e.g. lifting, pulling. | 8,000  |
+| Anchor Arms              | (d8 unarmed) Synthetic-muscle arms replacement. Saves using raw strength are made with Advantage, e.g. lifting, pulling. | 8,000  |
 | Monowire                 | (d6 _piercing_) Carbon filament wire with a monomolecular edge. _Concealed_ inside hand until used.                      | 12,500 |
 
 ### Enhancements
@@ -39,6 +39,7 @@ nav_order: 4
 | Pain Editor          | Override pain signals to the brain. **Trigger** (d4) Ignore negative effects of Wounds and Strain in your inventory for one minute.                                                      | 2,500   |
 | Subpocket            | _Concealed_ storage space just under the skin, large enough for a pistol or other non _bulky_ item. Item still occupies inventory slot.                                                  | 500     |
 | Omnihand             | Integrated-toolkit hand replacement. Functions as up to three tools of choice. Price is multiplied by the number of tools chosen.                                                        | 500     |
+| Surgical Claw        | Specialised medical device capable of incredibly precise and fast movements, with cutting and cauterizing functionality for stabilising dying targets easily.                            | 1,000   |
 | Active Camo          | Body/gear mimics surrounding colors in real-time. Invisible while stationary. **Trigger** (d4) to retain effect while moving. Disabled after attacking or receiving damage.              | 8,500   |
 | Mind-Holo Projectors | Cognitive visualiser paired with internal emitters. **Trigger** (d4) to make anything you imagine appear as a realistic projection up to 10m away.                                       | 1,200   |
 | Redline              | Unleash the berserker. **Trigger** (d6, _free action_) All attacks against you are _Impaired_. All ranged attacks by you are _Impaired_.                                                 | 18,000  |
@@ -50,7 +51,8 @@ nav_order: 4
 
 > Installing has no impact on **max CTR**
 
-|                |                                                             |     |
-| -------------- | ----------------------------------------------------------- | --- |
-| Synthetic Skin | Artificial skin replacement in color or pattern of choice.  | 650 |
-| Glamour Hair   | Artificial hair replacement that emits RGB light of choice. | 350 |
+|                  |                                                                                                   |       |
+| ---------------- | ------------------------------------------------------------------------------------------------- | ----- |
+| Cybernetic Limbs | Robotic limb to replace any appendages lost or damaged beyond repair. Offer no physical benefits. | 1,000 |
+| Synthetic Skin   | Artificial skin replacement in color or pattern of choice.                                        | 650   |
+| Glamour Hair     | Artificial hair replacement that emits RGB light of choice.                                       | 350   |

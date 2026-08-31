@@ -15,19 +15,19 @@ nav_order: 1
 
 |                                          |        |
 | ---------------------------------------- | ------ |
-| Riot Shield (+1 Armor)                   | 750    |
-| Helmet (+1 Armor)                        | 1,000  |
-| Kevlar Vest (1 Armor, _bulky_)           | 1,000  |
-| Combat Jacket (1 Armor)                  | 7,500  |
-| Assault Suit (2 Armor, _bulky_)          | 20,000 |
-| Heavy ExoSuit (3 Armor, _bulky_, _slow_) | 50,000 |
+| Riot Shield (+1 Armor)                   | 250    |
+| Helmet (+1 Armor)                        | 250    |
+| Kevlar Vest (1 Armor, _bulky_)           | 500    |
+| Combat Jacket (1 Armor)                  | 3,000  |
+| Assault Suit (2 Armor, _bulky_)          | 10,000 |
+| Heavy ExoSuit (3 Armor, _bulky_, _slow_) | 25,000 |
 
 ### Buffer
 
 |                                                   |        |
 | ------------------------------------------------- | ------ |
-| **Kuang MK.1**, Cyberdeck (+1 Buffer, _bulky_)  | 3,000  |
-| **Onosen VIII**, Cyberdeck (+2 Buffer, _bulky_) | 15,000 |
+| **Kuang MK.1**, Cyberdeck (+1 Buffer, _bulky_)    | 3,000  |
+| **Onosen VIII**, Cyberdeck (+2 Buffer, _bulky_)   | 15,000 |
 | **Asakura Deepdive**, Netsuit (1 Armor, 1 Buffer) | 20,000 |
 
 

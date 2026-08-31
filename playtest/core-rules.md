@@ -110,8 +110,6 @@ See [Cyberware](/playtest/cyberware-and-hacks#cyberware) for more.
 
 Hacks will attract the attention of NetCops and other hackers, and it is considered dangerous to use them openly.
 
-If the PC is _deprived_ or under extreme pressure, the Admin may require a PC to make a CTR save to avoid any complications from deploying the hack. Consequences of failure are on par with the intended effect and may result in added **Strain**, the destruction of the Module, injury, and even death.
-
 See [Hacks](/playtest/cyberware-and-hacks#hacks) for more.
 
 ## Prototypes

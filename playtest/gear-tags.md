@@ -33,7 +33,7 @@ nav_order: 5
 | *shred*       | If attack deals damage to Stamina or BOD, target's Armor is reduced by 1                                                                                               |
 | *destructive* | Attacks destroy cover.                                                                                                                                                 |
 | *shock*       | Target must succeed on a BOD save or fall prone.                                                                                                                       |
-| _smart_       | Attacks ignore Cover. Requires a Smartlink to use.                                                                                                                     |
+| _smart_       | Attacks ignore Light Cover. Requires a Smartlink to use.                                                                                                               |
 | _static_      | Cannot be used if wielder has moved this turn.                                                                                                                         |
 | _parry_       | Wielder has +1 Armor against melee attacks.                                                                                                                            |
 | _unreliable_  | Weapon jams when rolling a one on any dice during an attack roll. Takes an action to unjam.                                                                            |
