@@ -13,14 +13,20 @@ nav_order: 1
 Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
 
 - **Agility (AGL)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-
 - **Body (BOD)**: Used for saves requiring physical power, like lifting gates, breaking doors, resisting drugs, etc.
-
 - **Control (CTR)**: Used for saves to persuade, deceive, keep composure, interface with technology, etc.
+
+### Attribute Values
+
+Each attribute has three distinct values:
+
+- **Base**: Your natural baseline. Determined during character creation.
+- **Max**: Your operational ceiling. Equal to your Base value modified by installed cyberware.
+- **Current**: Your effectiveness in the moment. Limited to your Max value. Reduced by attribute damage.
 
 ## Saves
 
-A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate Current attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
  
 If two opponents are each trying to overcome the other, whoever is most at risk should save.
 
@@ -33,7 +39,7 @@ Sometimes a situation or circumstance may influence the difficulty of succeeding
 
 - **Advantage**: roll a d20 twice and take the best result.
 
-- **Disadvantage**: roll a d20 twice ans take the worst result.
+- **Disadvantage**: roll a d20 twice and take the worst result.
 
 
 ### Time, Tools, and Training
@@ -53,9 +59,9 @@ Roll 1d6 to determine your PC's starting **Stamina**, which reflects their abili
 
 **Resting** for a few minutes restores lost Stamina but may leave the party exposed. Medkits can stabilize a character that has taken critical damage. Drugs can stabilize a character that has taken critical stress.
 
-**Attribute loss** can usually be restored with a week's rest, facilitated by an appropriate source of expertise. See [Attribute Loss](/playtest/core-rules#attribute-loss).
+**Attribute loss** can usually be restored with a week's rest.
 
-**Recovering slowly** at home is free, while more expedient means of recovery such as hospitals come at a cost.
+**Wounds** and **Strain** can be recovered at home for free over a period of weeks. Expedient means of recovery such as hospitals reduce this from weeks to days, but come at a significant cost. See [Wounds & Strain](/playtest/wounds-and-strain).
 
 ## Deprivation & Fatigue
 
@@ -96,7 +102,7 @@ A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually
 
 ## Cyberware
 
-**Cyberware** can be installed to grant characters unique abilties, reducing max CTR by one. It does not occupy an inventory slot once installed.
+**Cyberware** can be installed to grant characters unique abilties, reducing Max CTR by 1. It does not occupy an inventory slot once installed.
 
 Most cyberware has passive effects, providing a constant benefit to characters. Some cyberware have **Triggers** for active effects, at the cost of taking Stress.
 

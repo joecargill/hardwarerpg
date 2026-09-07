@@ -30,29 +30,29 @@ nav_order: 4
 
 ### Enhancements
 
-|                      |                                                                                                                                                                                          |         |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Smartlink            | Allows use of _smart_ weapons.                                                                                                                                                           | 2,000   |
-| Reinforced Tendons   | Biomechanically augmented ligaments capable of absorbing extreme force. Avoid fall damage if landing on your feet. **Trigger** (d4) to launch into the air.                              | 2,000   |
-| Adrenal Booster      | Emergency adrenaline pump. Recover 1d6 Stamina immediately after taking BOD damage.                                                                                                      | 3,500   |
-| Cybereyes            | Vision enhancement with zoom and camera capabilities. **Trigger** (d4, _free action_) to target-lock, gaining an **Edge** on your next attack.                                           | 1,000   |
-| Pain Editor          | Override pain signals to the brain. **Trigger** (d4) Ignore negative effects of Wounds and Strain in your inventory for one minute.                                                      | 2,500   |
-| Subpocket            | _Concealed_ storage space just under the skin, large enough for a pistol or other non _bulky_ item. Item still occupies inventory slot.                                                  | 500     |
-| Omnihand             | Integrated-toolkit hand replacement. Functions as up to three tools of choice. Price is multiplied by the number of tools chosen.                                                        | 500     |
-| Surgical Claw        | Specialised medical device capable of incredibly precise and fast movements, with cutting and cauterizing functionality for stabilising dying targets easily.                            | 1,000   |
-| Active Camo          | Body/gear mimics surrounding colors in real-time. Invisible while stationary. **Trigger** (d4) to retain effect while moving. Disabled after attacking or receiving damage.              | 8,500   |
-| Mind-Holo Projectors | Cognitive visualiser paired with internal emitters. **Trigger** (d4) to make anything you imagine appear as a realistic projection up to 10m away.                                       | 1,200   |
-| Redline              | Unleash the berserker. **Trigger** (d6, _free action_) All attacks against you are _Impaired_. All ranged attacks by you are _Impaired_.                                                 | 18,000  |
-| Speedware            | Spinal-implant that enhances reflexes. Always go first in combat. **Trigger** (d8, _free action_) to take an extra action.                                                               | 20,000  |
-| Chronoware           | Enhanced neural-sensory connection. Time perception permanently slowed. AGL saves to avoid harm are made with Advantage. **Trigger** (d6, _free action_) to avoid taking _blast_ damage. | 14,000  |
-| Full Body Conversion | (3 Armor, repairable) Full cyborg, leave humanity behind. Max BOD is increased to 18. Installing reduces max CTR by half - after all other cyberware - to a minimum of 3.                | 100,000 |
+|                      |                                                                                                                                                                             |         |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Smartlink            | Allows use of _smart_ weapons.                                                                                                                                              | 2,000   |
+| Reinforced Tendons   | Biomechanically augmented ligaments capable of absorbing extreme force. Avoid fall damage if landing on your feet. **Trigger** (d4) to launch into the air.                 | 2,000   |
+| Adrenal Booster      | Emergency adrenaline pump. Once per day, recover 1d6 Stamina immediately after taking BOD or CTR damage.                                                                    | 3,500   |
+| Cybereyes            | Vision enhancement with zoom and camera capabilities. **Trigger** (d4) to target-lock, gaining an **Edge** on your next attack.                                             | 1,000   |
+| Pain Editor          | Override pain signals to the brain. **Trigger** (d4) Ignore negative effects of Wounds and Strain in your inventory for one minute.                                         | 2,500   |
+| Subpocket            | _Concealed_ storage space just under the skin, large enough for a pistol or other non _bulky_ item. Item still occupies inventory slot.                                     | 500     |
+| Omnihand             | Integrated-toolkit hand replacement. Functions as up to three tools of choice. Price is multiplied by the number of tools chosen.                                           | 500     |
+| Surgical Claw        | Specialised medical device capable of incredibly precise and fast movements, with cutting and cauterizing functionality for stabilising dying targets easily.               | 750     |
+| Active Camo          | Body/gear mimics surrounding colors in real-time. Invisible while stationary. **Trigger** (d4) to retain effect while moving. Disabled after attacking or receiving damage. | 8,500   |
+| Mind-Holo Projectors | Cognitive visualiser paired with internal emitters. **Trigger** (d4) to make anything you imagine appear as a realistic projection up to 10m away.                          | 1,200   |
+| Redline              | Unleash the berserker. **Trigger** (d6) All attacks against you are _Impaired_. All ranged attacks by you are _Impaired_.                                                   | 18,000  |
+| Speedware            | Spinal-implant that enhances reflexes. Always go first in combat. **Trigger** (d6) to take an extra action.                                                                 | 20,000  |
+| Chronoware           | Enhanced neural-sensory connection. Time perception permanently slowed. **Trigger** (d6) to avoid taking _blast_ damage, or succeed a save to avoid harm.                   | 10,000  |
+| Full Body Conversion | (3 Armor, repairable) Full cyborg, leave humanity behind. Max BOD is increased to 19. Installing costs 5 Max CTR.                                                           | 100,000 |
 
 ### Cosmetic
 
-> Installing has no impact on **max CTR**
+> Installing has no impact on **Max CTR**
 
-|                  |                                                                                                   |       |
-| ---------------- | ------------------------------------------------------------------------------------------------- | ----- |
-| Cybernetic Limbs | Robotic limb to replace any appendages lost or damaged beyond repair. Offer no physical benefits. | 1,000 |
-| Synthetic Skin   | Artificial skin replacement in color or pattern of choice.                                        | 650   |
-| Glamour Hair     | Artificial hair replacement that emits RGB light of choice.                                       | 350   |
+|                 |                                                                                                   |       |
+| --------------- | ------------------------------------------------------------------------------------------------- | ----- |
+| Cybernetic Limb | Robotic replacement for any appendages lost or damaged beyond repair. Offer no physical benefits. | 1,000 |
+| Synthetic Skin  | Artificial skin replacement in color or pattern of choice.                                        | 650   |
+| Glamour Hair    | Artificial hair replacement that emits RGB light of choice.                                       | 350   |

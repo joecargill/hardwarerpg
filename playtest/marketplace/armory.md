@@ -143,7 +143,7 @@ nav_order: 1
 | Shredder Rounds (_shred_)                                       | +500  |
 | Incendiary Rounds (burn flammable)                              | +100  |
 | Rubber Rounds (non-lethal)                                      | +0    |
-| Injector Round (_reload_, STR damage to apply drug or poison)   | 100   |
+| Injector Round (_reload_, BOD damage to apply drug or poison)   | 100   |
 | EMP Round (_reload_, CTR save to disable electronics/cyberware) | 350   |
 | Tracer Round (_reload_, shares location)                        | 150   |
 

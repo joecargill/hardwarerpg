@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hack Modules
+title: Hacks
 parent: Marketplace
 nav_order: 5
 ---
-# Hack Modules
+# Hacks
 
 > All prices are in Creds
 

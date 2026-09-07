@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Rounds
 
-A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_.
+A **Round** is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_.
 
 Resolve rounds in the following order:
 
@@ -31,20 +31,20 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
 
 Attacks are resolved through the following steps:
 1. All attackers targeting the same foe roll damage dice.
-2. **Assist**: Final damage results of 4 or greater can be discarded to add 1 damage to the final attack. 
+2. **Assist**: damage results of 4 or greater can be discarded to add 1 damage to the final attack.
 3. Take the value from the highest result remaining, adding assist damage.
-4. Subtract the target's **Protection** (Armor + Cover).
+4. Subtract the target's Armor and Cover.
 5. The attack inflicts damage equal to the remaining total, and applies any effects from the source of the highest result. 
 
 ## Attack Modifiers
 
-**Edges** are gained on attacks for every advantage you have over a target (such as high ground). Every Edge you improves the damage die one step, up to d12. For example, a Sniper Rifle (d8) attack with one Edge would instead roll d10 for damage. With two Edges it would roll d12.
+**Edges** are gained on attacks for every advantage you have over a target (such as high ground). Every Edge improves the damage die one step, up to d12. For example, a Sniper Rifle (d8) attack with one Edge would instead do d10 damage. With two Edges it is d12 damage.
 
-**Impaired** attacks always use a d4 damage die, and cannot be improved by Edges.
+**Impaired** attacks always do d4 damage, and cannot be improved by Edges.
 
 **Dual-wielding** attacks roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
 
-**Aim** for a turn by designating a target you can see. On your next turn, your attack on that target deals maximum damage. A target that breaks line of sight ends your Aim.
+**Aim** for a turn by designating a target you can see. On your next turn, your attack on that target deals maximum damage. A target that completely leaves your line of sight breaks your Aim.
 
 ## Protection
 
@@ -71,7 +71,7 @@ Cover can be negated by flanking to get an unobstructed view of your target, or 
 
 ### Buffer
 
-Before calculating Stress to Stamina, subtract the target's **Buffer** value from the result of stress rolls.
+Before calculating Stress to Stamina, subtract the target's **Buffer** value from the result of stress rolls. Buffer also applies to self-inflicted stress.
 
 Cyberdecks and similar devices provide bonus protection (e.g. +1 Buffer), but only while the item is held, worn, or installed.
 
@@ -107,23 +107,23 @@ When changing Ammo type in combat, you must discard your current Ammo from your 
 
 ## Critical Damage
 
-Damage that reduces a target's **Stamina** below zero is subtracted from their BOD by the amount of damage remaining. The target must then immediately make a BOD save to avoid taking **Critical Damage**, using their _new BOD score_. 
+Damage that reduces a target's **Stamina** below zero is subtracted from their BOD by the amount of damage remaining. The target must then immediately make a BOD save to avoid taking **Critical Damage**, using their _new Current BOD_. 
 
-Upon taking **Critical Damage**, PCs gain a **Wound** in an inventory slot. Some wounds apply the _dying_ condition. See [Wounds](/playtest/wounds-and-strain#wounds) for more.
+Upon taking **Critical Damage**, PCs are **Dying**, and add a **Wound** to their inventory. See [Wounds](/playtest/wounds-and-strain#wounds) for more.
 
-**Dying** PCs cannot do anything but crawl weakly, grasping for life. If given aid (such as Medkits), they will stabilize. If left untreated, they die within the hour.
+**Dying** PCs cannot do anything but crawl weakly, grasping for life. If given aid (such as Medkits), they will stabilise. If left untreated, they die within the hour.
 
-NPCs and monsters that fail a **Critical Damage** save are considered dead, per the **Admin's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+NPCs and monsters that fail a **Critical Damage** save are considered dead, per the Admin's discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
 
 ## Critical Stress
 
-Stress that reduces a target's **Stamina** below zero is subtracted from their CTR by the amount of stress remaining. The target must then immediately make a CTR save to avoid taking **Critical Stress**, using their _new CTR score_.
+Stress that reduces a target's **Stamina** below zero is subtracted from their CTR by the amount of stress remaining. The target must then immediately make a CTR save to avoid taking **Critical Stress**, using their _new Current CTR_.
 
-Upon taking **Critical Stress**, PCs gain a **Strain** in an inventory slot
+Upon taking **Critical Stress**, PCs are **Overloaded**, and add a **Strain** to their inventory. See [Strain](/playtest/wounds-and-strain#strain) for more.
 
-On a failure, they gain a **Strain** in an inventory slot. See [Strain](/playtest/wounds-and-strain#strain) for more.
+**Overloaded** PCs cannot take any actions that will inflict stress on themselves until they recover at least 1 Stamina.
 
-NPCs and monsters that fail a Critical Stress save must make a morale check, per the **Admin's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical stress save.
+NPCs and monsters that fail a Critical Stress save must make a morale check, per the Admin's discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical stress save.
 
 ## Attribute Loss
 

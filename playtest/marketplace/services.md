@@ -65,18 +65,18 @@ nav_order: 3
 |                                           |     |
 | ----------------------------------------- | --- |
 | Medical Treatment at Hospital (per night) | 500 |
-| Therapy in Rehab Unit (per night)         | 250 |
+| Therapy in Rehab (per night)              | 250 |
 
 
 ## Experimental Surgery
 
-Expensive and risky, rebuilds an aspect of your body from the ground up. No refunds.
+Expensive and risky, rebuilds an aspect of your body from the ground up. Recovery in one week. No refunds.
 
-|                        |                                                        |        |
-| ---------------------- | ------------------------------------------------------ | ------ |
-| Muscular Recomposition | Roll 3d6, taking the result as your new STR attribute. | 15,000 |
-| Tendon Recalibration   | Roll 3d6, taking the result as your new AGL attribute. | 12,000 |
-| Cerebral Overhaul      | Roll 3d6, taking the result as your new CTR attribute. | 18,000 |
+|                        |                                                   |        |
+| ---------------------- | ------------------------------------------------- | ------ |
+| Muscular Recomposition | Roll 3d6, taking the result as your new Base BOD. | 25,000 |
+| Tendon Recalibration   | Roll 3d6, taking the result as your new Base AGL. | 25,000 |
+| Cerebral Overhaul      | Roll 3d6, taking the result as your new Base CTR. | 25,000 |
 
 
 ## Contractors
