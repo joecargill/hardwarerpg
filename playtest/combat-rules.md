@@ -13,7 +13,7 @@ A **Round** is roughly ten seconds of in-game time and proceeds with each side t
 
 Resolve rounds in the following order:
 
-1. Each PC must make an AGL save in order to act before their opponents. PCs that fail their save _lose their turn_ for this round. 
+1. In the first round, each PC must make an AGL save in order to act before their opponents. PCs that fail their save _lose their turn_ for this round. 
 2. Their opponents then take their turn.
 3. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
 
@@ -44,7 +44,13 @@ Attacks are resolved through the following steps:
 
 **Dual-wielding** attacks roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
 
+**Burst** attacks roll the weapon damage dice twice and keep the single highest result (same as dual-wielding).
+
+**Suppress** attacks consume one Ammo and make an _impaired_ attack with the _blast_ tag. Until their next turn, targets are _impaired_ and must make a CTR save to move.
+
 **Aim** for a turn by designating a target you can see. On your next turn, your attack on that target deals maximum damage. A target that completely leaves your line of sight breaks your Aim.
+
+
 
 ## Protection
 
@@ -97,7 +103,7 @@ Every Ammo takes one inventory slot. Ammo is shareable between weapons in the sa
 
 After combat, make a _reload_ check:
 
-1. For any firearm used make an AGL save. If you used a _burst_ attack, roll with Disadvantage.
+1. For any firearm used make an AGL save. If you used a _autofire_ attack, roll twice and take the worse result.
 2. On a failure, you must reload discarding one Ammo of that weapon type from your inventory.
 3. On a success, you keep your Ammo.
 

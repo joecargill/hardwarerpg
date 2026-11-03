@@ -33,15 +33,6 @@ If two opponents are each trying to overcome the other, whoever is most at risk 
 If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
 
 
-### Advantage and Disadvantage
-
-Sometimes a situation or circumstance may influence the difficulty of succeeding, affecting a PCs chance of success. In these cases, the Admin may ask you to roll with **Advantage** or **Disadvantage**. 
-
-- **Advantage**: roll a d20 twice and take the best result.
-
-- **Disadvantage**: roll a d20 twice and take the worst result.
-
-
 ### Time, Tools, and Training
 
 If a PC wants to perform a task, use the "time, tools and training" framework to determine when a save may be required. If none or one of three requirements are met, the task is usually impossible. When two requirements are met, request the most applicable save roll. If all three requirements are fulfilled, the PC succeeds automatically.
@@ -57,7 +48,9 @@ Roll 1d6 to determine your PC's starting **Stamina**, which reflects their abili
 
 ## Healing & Recovery
 
-**Resting** for a few minutes restores lost Stamina but may leave the party exposed. Medkits can stabilize a character that has taken critical damage. Drugs can stabilize a character that has taken critical stress.
+**Resting** for a few minutes restores lost Stamina but may leave the party exposed. Resting characters can no longer maintain effects from gear, cyberware, or hacks. 
+
+Medkits can stabilise a character that has taken critical damage. Drugs can stabilise a character that has taken critical stress.
 
 **Attribute loss** can usually be restored with a week's rest.
 

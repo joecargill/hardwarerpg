@@ -28,7 +28,7 @@ nav_order: 1
 | ------------------------------------------------- | ------ |
 | **Kuang MK.1**, Cyberdeck (+1 Buffer, _bulky_)    | 3,000  |
 | **Onosen VIII**, Cyberdeck (+2 Buffer, _bulky_)   | 15,000 |
-| **Asakura Deepdive**, Netsuit (1 Armor, 1 Buffer) | 20,000 |
+| **Onizuka Deepdive**, Netsuit (1 Armor, 1 Buffer) | 20,000 |
 
 
 ## Weaponry
@@ -43,7 +43,7 @@ nav_order: 1
 | **DEFTECH M9-Justice**, Stun Baton (d4, _shock_) | 200   |
 | Machete (d6)                                     | 150   |
 | Baseball Bat (d6)                                | 100   |
-| **Asakura Monoblade**, Katana (d8, _parry_)        | 1,000 |
+| **Onizuka Monoblade**, Katana (d8, _parry_)        | 1,000 |
 | Sledgehammer (d10, _bulky_, _slow_)              | 150   |
 | Chainsaw (d10, _bulky_, _loud_, _shred_)         | 1,000 |
 
@@ -54,7 +54,7 @@ nav_order: 1
 | **CheapMart SelfGuard**, Pistol (d4, _unreliable_)           | 80    |
 | **EuroArms Directive**, Pistol (d4)                          | 150   |
 | **Volkov Streetshot**, Pistol (d6, _unreliable_)             | 350   |
-| **Asakura Standard**, Pistol (d6)                            | 700   |
+| **Onizuka Standard**, Pistol (d6)                            | 700   |
 | **SW 409 Tactical**, Revolver (d6, _retro_)                  | 350   |
 | **NuTactical Sweetie**, Pistol (d6, _shred_)                 | 3,000 |
 | **Kuang MA35 Hand Cannon**, Heavy Pistol (d8)                | 3,000 |
@@ -66,16 +66,16 @@ nav_order: 1
 
 ### Rifles
 
-|                                                                                        |        |
-| -------------------------------------------------------------------------------------- | ------ |
-| **CheapMart AutoShot**, Assault Rifle (d6, _bulky_, _burst_, _suppress_, _unreliable_) | 900    |
-| **EuroArms Accord**, Assault Rifle (d6, _burst_, _suppress_)                           | 1,500  |
-| **Volkov Striker**, Assault Rifle (d8, _bulky_, _burst_, _suppress_, _unreliable_)     | 1,500  |
-| **Kuang X.20**, Assault Rifle (d8, _bulky_, _burst_, _suppress_)                       | 3,000  |
-| **SW Model 2000 Hunter**, Sniper Rifle (d10, _bulky_, _precise_, _retro_)              | 8,000  |
-| **DEFTECH R7-Intercess**, Sniper Rifle (d10, _bulky_, _precise_)                       | 10,000 |
-| **Asakura Shinobi**, Sniper Rifle (d12, _bulky_, _precise_)                            | 18,000 |
-| **DEFTECH L2-Heavy**, Heavy Machine Gun (d10, _bulky_, _slow_, _blast_, _suppress_)    | 15,000 |
+|                                                                                     |        |
+| ----------------------------------------------------------------------------------- | ------ |
+| **CheapMart AutoShot**, Assault Rifle (d6, _bulky_, _burst_, _unreliable_)          | 900    |
+| **EuroArms Accord**, Assault Rifle (d6, _burst_, _suppress_)                        | 1,500  |
+| **Volkov Striker**, Assault Rifle (d8, _bulky_, _burst_, _unreliable_)              | 1,500  |
+| **Kuang X.20**, Assault Rifle (d8, _bulky_, _burst_, _suppress_)                    | 3,000  |
+| **SW Model 2000 Hunter**, Sniper Rifle (d10, _bulky_, _precise_, _retro_)           | 8,000  |
+| **DEFTECH R7-Intercess**, Sniper Rifle (d10, _bulky_, _precise_)                    | 10,000 |
+| **Onizuka Shinobi**, Sniper Rifle (d12, _bulky_, _precise_)                         | 18,000 |
+| **DEFTECH L2-Heavy**, Heavy Machine Gun (d10, _bulky_, _slow_, _blast_, _suppress_) | 15,000 |
 
 
 ### Shotguns
@@ -83,8 +83,8 @@ nav_order: 1
 |                                                                                  |       |
 | -------------------------------------------------------------------------------- | ----- |
 | **SW Buckshot**, Double-barrel Shotgun (d4, _bulky_, _blast_, _reload_, _retro_) | 150   |
-| **EuroArms Veto**, Hand Shotgun (d4, _shred_)            | 900   |
-| **Asakura Antibody**, Combat Shotgun (d6, _bulky_, _shred_)                      | 2,000 |
+| **EuroArms Veto**, Hand Shotgun (d4, _shred_)                                    | 900   |
+| **Onizuka Antibody**, Combat Shotgun (d6, _bulky_, _shred_)                      | 2,000 |
 | **Kuang AP.2**, Automatic Shotgun (d6, _bulky_, _burst_, _shred_)                | 5,000 |
 
 ### Explosives
@@ -103,7 +103,7 @@ nav_order: 1
 |                                                                      |       |
 | -------------------------------------------------------------------- | ----- |
 | **SW Bullseye**, Compound Bow (d6, _bulky_, _quiet_, _retro_)        | 750   |
-| **Asakura Ghost**, Crossbow Sniper (d6, _bulky_, _quiet_, _precise_) | 1,000 |
+| **Onizuka Ghost**, Crossbow Sniper (d6, _bulky_, _quiet_, _precise_) | 1,000 |
 
 ### Smart
 
@@ -134,18 +134,20 @@ nav_order: 1
 | Arrows    | 25  |
 | Smart     | 500 |
 
-#### Special
+#### Specialty Rounds
 
-|                                                                 |       |
-| --------------------------------------------------------------- | ----- |
-| Explosive Rounds (_destructive_)                                | +500  |
-| Armor Piercing Rounds (_piercing_)                              | +1000 |
-| Shredder Rounds (_shred_)                                       | +500  |
-| Incendiary Rounds (burn flammable)                              | +100  |
-| Rubber Rounds (non-lethal)                                      | +0    |
-| Injector Round (_reload_, BOD damage to apply drug or poison)   | 100   |
-| EMP Round (_reload_, CTR save to disable electronics/cyberware) | 350   |
-| Tracer Round (_reload_, shares location)                        | 150   |
+Ammo mods that apply to a single attack with a firearm, consumed on use. 
+
+|                                           |     |
+| ----------------------------------------- | --- |
+| Explosive Round (_destructive_)           | 150 |
+| Armor Piercing Round (_piercing_)         | 200 |
+| Shredder Round (_shred_)                  | 100 |
+| Incendiary Round (burn flammable)         | 50  |
+| Rubber Round (non-lethal)                 | 10  |
+| Injector Round (apply drug or poison)     | 10  |
+| EMP Round (disable electronics/cyberware) | 250 |
+| Tracer Round (shares location)            | 50  |
 
 
 
