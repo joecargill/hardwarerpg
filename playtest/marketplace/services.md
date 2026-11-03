@@ -64,8 +64,8 @@ nav_order: 3
 
 |                                           |     |
 | ----------------------------------------- | --- |
-| Medical Treatment at Hospital (per night) | 500 |
-| Therapy in Rehab (per night)              | 250 |
+| Medical Treatment at Hospital (per night) | 200 |
+| Therapy in Rehab (per night)              | 100 |
 
 
 ## Experimental Surgery

@@ -37,89 +37,88 @@ nav_order: 1
 
 |                                                  |       |
 | ------------------------------------------------ | ----- |
-| Taser (_shock_)                                  | 50    |
-| Brass Knuckles (d4)                              | 20    |
+| Taser (1, _shock_)                               | 50    |
+| Brass Knuckles (d6)                              | 25    |
 | Combat Knife (d4, _piercing_)                    | 50    |
 | **DEFTECH M9-Justice**, Stun Baton (d4, _shock_) | 200   |
-| Machete (d6)                                     | 150   |
-| Baseball Bat (d6)                                | 100   |
-| **Onizuka Monoblade**, Katana (d8, _parry_)        | 1,000 |
-| Sledgehammer (d10, _bulky_, _slow_)              | 150   |
-| Chainsaw (d10, _bulky_, _loud_, _shred_)         | 1,000 |
+| Machete (d8)                                     | 150   |
+| Baseball Bat (d8)                                | 100   |
+| **Onizuka Monoblade**, Katana (d10)              | 1,000 |
+| Sledgehammer (d12, _bulky_, _slow_)              | 150   |
+| Chainsaw (d12, _bulky_, _loud_, _shred_)         | 1,000 |
 
 ### Handguns
 
 |                                                              |       |
 | ------------------------------------------------------------ | ----- |
-| **CheapMart SelfGuard**, Pistol (d4, _unreliable_)           | 80    |
-| **EuroArms Directive**, Pistol (d4)                          | 150   |
-| **Volkov Streetshot**, Pistol (d6, _unreliable_)             | 350   |
-| **Onizuka Standard**, Pistol (d6)                            | 700   |
+| **CheapMart SelfGuard**, Pistol (d4, _unreliable_)           | 25    |
+| **EuroArms Directive**, Pistol (d4)                          | 100   |
+| **Volkov Streetshot**, Pistol (d6, _unreliable_)             | 250   |
+| **Onizuka Standard**, Pistol (d6)                            | 500   |
 | **SW 409 Tactical**, Revolver (d6, _retro_)                  | 350   |
-| **NuTactical Sweetie**, Pistol (d6, _shred_)                 | 3,000 |
+| **NuTactical Sweetpea**, Pistol (d6, _shred_)                | 3,000 |
 | **Kuang MA35 Hand Cannon**, Heavy Pistol (d8)                | 3,000 |
-| **Volkov Viper**, Submachine Gun (d4, _blast_, _unreliable_) | 750   |
-| **Kuang S.10**, Submachine Gun (d4, _blast_)                 | 1,000 |
-
-
+| **Volkov Viper**, Submachine Gun (d4, _blast_, _unreliable_) | 350   |
+| **Kuang S.10**, Submachine Gun (d4, _blast_)                 | 600   |
 
 
 ### Rifles
 
 |                                                                               |        |
 | ----------------------------------------------------------------------------- | ------ |
-| **CheapMart AutoShot**, Assault Rifle (d6, _bulky_, _autofire_, _unreliable_) | 900    |
-| **EuroArms Accord**, Assault Rifle (d6, _autofire_)                           | 1,500  |
-| **Volkov Striker**, Assault Rifle (d8, _bulky_, _autofire_, _unreliable_)     | 1,500  |
-| **Kuang X.20**, Assault Rifle (d8, _bulky_, _autofire_)                       | 3,000  |
-| **SW Model 2000 Hunter**, Sniper Rifle (d10, _bulky_, _precise_, _retro_)     | 8,000  |
-| **DEFTECH R7-Intercess**, Sniper Rifle (d10, _bulky_, _precise_)              | 10,000 |
-| **Onizuka Shinobi**, Sniper Rifle (d12, _bulky_, _precise_)                   | 18,000 |
-| **DEFTECH L2-Heavy**, Heavy Machine Gun (d10, _bulky_, _slow_, _autofire_)    | 15,000 |
+| **CheapMart AutoShot**, Assault Rifle (d6, _bulky_, _autofire_, _unreliable_) | 300    |
+| **EuroArms Accord**, Assault Rifle (d6, _autofire_)                           | 1,000  |
+| **Volkov Striker**, Assault Rifle (d8, _bulky_, _autofire_, _unreliable_)     | 1,200  |
+| **Kuang X.20**, Assault Rifle (d8, _bulky_, _autofire_)                       | 2,000  |
+| **SW Model 2000 Hunter**, Sniper Rifle (d10, _bulky_, _precise_, _retro_)     | 1,500  |
+| **DEFTECH R7-Intercess**, Sniper Rifle (d10, _bulky_, _precise_)              | 2,500  |
+| **Onizuka Shinobi**, Sniper Rifle (d12, _bulky_, _precise_)                   | 5,000  |
+| **DEFTECH L2-Heavy**, Heavy Machine Gun (d10, _bulky_, _slow_, _autofire_)    | 10,000 |
 
 
 ### Shotguns
 
 |                                                                                  |       |
 | -------------------------------------------------------------------------------- | ----- |
-| **SW Buckshot**, Double-barrel Shotgun (d4, _bulky_, _blast_, _reload_, _retro_) | 150   |
-| **EuroArms Veto**, Hand Shotgun (d4, _shred_)            | 900   |
-| **Onizuka Antibody**, Combat Shotgun (d6, _bulky_, _shred_)                      | 2,000 |
-| **Kuang AP.2**, Automatic Shotgun (d6, _bulky_, _autofire_, _shred_)                | 5,000 |
+| **SW Buckshot**, Double-barrel Shotgun (d6, _bulky_, _blast_, _reload_, _retro_) | 150   |
+| **EuroArms Veto**, Hand Shotgun (d4, _shred_)                                    | 600   |
+| **Onizuka Antibody**, Combat Shotgun (d8, _bulky_, _shred_)                      | 1,000 |
+| **Kuang AP.2**, Automatic Shotgun (d6, _bulky_, _autofire_, _shred_)             | 1,500 |
+|                                                                                  |       |
 
 ### Explosives
 
 |                                                                                                  |        |
 | ------------------------------------------------------------------------------------------------ | ------ |
-| **DEFTECH G1-Launcher**, Grenade Launcher (d8, _bulky_, _blast_, _destructive_, _reload_)        | 10,000 |
+| **DEFTECH G1-Launcher**, Grenade Launcher (d8, _bulky_, _blast_, _destructive_, _reload_)        | 5,000  |
 | **DEFTECH N31-Lancer**, Rocket Launcher (d12, _bulky_, _blast_, _destructive_, _reload_, _slow_) | 15,000 |
-| **NuTactical QuickBoom**, Grenade Launcher (d4, _bulky_, _blast_, _destructive_)                 | 15,000 |
+| **NuTactical QuickBoom**, Grenade Launcher (d6, _bulky_, _blast_, _destructive_)                 | 15,000 |
 | Frag grenade (d6, _blast_, _destructive_)                                                        | 50     |
-| Flashbang grenade (_blast_, blinds on failed AGL save)                                           | 25     |
-| Smoke grenade (fills room and all attacks _Impaired_)                                            | 25     |
+| Flashbang grenade (blinds on failed AGL save)                                                    | 20     |
+| Smoke grenade (fills room and all attacks _impaired_)                                            | 20     |
 
 ### Arrows
 
 |                                                                      |       |
 | -------------------------------------------------------------------- | ----- |
-| **SW Bullseye**, Compound Bow (d6, _bulky_, _quiet_, _retro_)        | 750   |
-| **Onizuka Ghost**, Crossbow Sniper (d6, _bulky_, _quiet_, _precise_) | 1,000 |
+| **SW Bullseye**, Compound Bow (d6, _bulky_, _quiet_, _retro_)        | 500   |
+| **Onizuka Ghost**, Crossbow Sniper (d8, _bulky_, _quiet_, _precise_) | 1,000 |
 
 ### Smart
 
-|                                                                   |        |
-| ----------------------------------------------------------------- | ------ |
-| **Aegis Vector**, Smart Pistol (d4, _smart_)                      | 1,200  |
-| **Aegis Surge**, Smart SMG (d4, _smart_, _blast_)                 | 6,000  |
-| **Aegis Fractal**, Smart Rifle (d6, _bulky_, _smart_, _autofire_) | 11,000 |
+|                                                                   |       |
+| ----------------------------------------------------------------- | ----- |
+| **Aegis Vector**, Smart Pistol (d4, _smart_)                      | 1,500 |
+| **Aegis Surge**, Smart SMG (d4, _smart_, _blast_)                 | 3,000 |
+| **Aegis Fractal**, Smart Rifle (d6, _bulky_, _smart_, _autofire_) | 6,000 |
 
 
 ### Attachments
 
 |                                                                                     |       |
 | ----------------------------------------------------------------------------------- | ----- |
-| Silencer (_quiet_)                                                                  | 200   |
-| **DEFTECH G2-Underbarrel**, Grenade Launcher (d6, _blast_, _destructive_, _reload_) | 2,000 |
+| Silencer (_quiet_)                                                                  | 100   |
+| **DEFTECH G2-Underbarrel**, Grenade Launcher (d6, _blast_, _destructive_, _reload_) | 1,000 |
 
 ### Ammo
 
@@ -127,27 +126,27 @@ nav_order: 1
 
 |           |     |
 | --------- | --- |
-| Handgun   | 50  |
-| Rifle     | 150 |
-| Shotgun   | 100 |
+| Handgun   | 25  |
+| Rifle     | 100 |
+| Shotgun   | 50  |
 | Explosive | 200 |
-| Arrows    | 25  |
-| Smart     | 500 |
+| Arrows    | 10  |
+| Smart     | 200 |
 
-#### Specialty Rounds
+#### Ammo Mods
 
-Ammo mods that apply to a single attack with a firearm, consumed on use. 
+Applies special effects to a single attack with any firearm. Consumed on use. 
 
-|                                           |     |
-| ----------------------------------------- | --- |
-| Explosive Round (_destructive_)           | 150 |
-| Armor Piercing Round (_piercing_)         | 200 |
-| Shredder Round (_shred_)                  | 100 |
-| Incendiary Round (burn flammable)         | 50  |
-| Rubber Round (non-lethal)                 | 10  |
-| Injector Round (apply drug or poison)     | 10  |
-| EMP Round (disable electronics/cyberware) | 250 |
-| Tracer Round (shares location)            | 50  |
+|                                         |     |
+| --------------------------------------- | --- |
+| Explosive Mod (_destructive_)           | 150 |
+| Armor Piercing Mod (_piercing_)         | 200 |
+| Shredder Mod (_shred_)                  | 100 |
+| Incendiary Mod (burn flammable)         | 50  |
+| Rubber Mod (non-lethal)                 | 10  |
+| Injector Mod (apply drug or poison)     | 10  |
+| EMP Mod (disable electronics/cyberware) | 250 |
+| Tracer Mod (shares location)            | 50  |
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Threat Index
-parent: Playtest v0.1
+parent: Playtest v0.2
 nav_order: 6
 ---
 
@@ -13,7 +13,7 @@ nav_order: 6
 | ------ | --------- | ------------------------------------------------------------------ |
 | **d4** | **Group** | **Threats**                                                        |
 | **1**  | Street    | Cyberpsycho, Street Ganger                                         |
-| **2**  | Corporate | Corpo Operator, Netrunner                                          |
+| **2**  | Corporate | Corpo Operator, Guard, Guard Leader, Netrunner                     |
 | **3**  | Robotic   | Aero-Drone, Automated Turret, Industrial Servitor, Metalhead Hound |
 | **4**  | Military  | Chimera Tank                                                       |
 
@@ -25,7 +25,7 @@ nav_order: 6
 
 ## Automated Turret
 
-1 Stamina, 1 Armor, 10 BOD, 10 CTR, heavy chaingun (d10, _blast_)
+2 Stamina, 1 Armor, 10 BOD, 10 CTR, heavy chaingun (d10, _blast_)
 
 - Stationary defence.
 
@@ -41,6 +41,18 @@ nav_order: 6
 6 Stamina, 1 Armor, 1 Buffer, 12 BOD, 14 AGL, 10 CTR, assault rifle (d8, _autofire_, _suppress_)
 
 - Highly trained corporate hitmen.
+
+## Guard
+
+4 Stamina, 1 Armor, 12 BOD, 10 AGL, 9 CTR, pistol (d6)
+
+- Standard corporate security sentries, dock watchmen, and perimeter patrols.
+
+## Guard Leader
+
+4 Stamina, 2 Armor, 12 BOD, 10 AGL, 9 CTR, assault rifle (d8, _autofire_)
+
+- Tactical squad lead or security sergeant. If there are more than 2 Guards at once, one is a Guard Leader.
 
 ## Cyberpsycho
 
@@ -60,14 +72,14 @@ nav_order: 6
 
 ## Metalhead Hound
 
-4 Stamina, 1 Armor, 8 BOD, 14 AGL, 6 CTR, titanium jaws (d8)
+4 Stamina, 11 BOD, 14 AGL, 5 CTR, titanium jaws (d8)
 
 - Quadrupedal security robots used for perimeter defense. Fast rushers.
 - Will focus all attacks on the first person to deal damage to them, and do not switch targets.
 
 ## Netrunner
 
-4 Stamina, 2 Buffer, 8 BOD, 11 AGL, 14 CTR, optic reset (d4), overheat (d6)
+4 Stamina, 2 Buffer, 9 BOD, 11 AGL, 14 CTR, optic reset (d4), overheat (d6)
 
 - Fragile in meat-space but deadly if they have access to the local subnet.
 

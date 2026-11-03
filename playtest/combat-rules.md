@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combat Rules
-parent: Playtest v0.1
+parent: Playtest v0.2
 nav_order: 2
 ---
 
@@ -21,7 +21,7 @@ Special circumstances, abilities, items, or skills may negate the need to make a
 
 ## Actions
 
-On their turn, a character may move up to 10m and take up to one action. This may be deploying a hack, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Admin calls for a save for appropriate players or NPCs. 
+On their turn, a character may move up to 10m and take up to one action (in that order). This may be deploying a hack, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Admin calls for a save for appropriate players or NPCs.
 
 All actions are declared before being resolved.
 
@@ -31,30 +31,26 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
 
 Attacks are resolved through the following steps:
 1. All attackers targeting the same foe roll damage dice.
-2. **Assist**: damage results of 4 or greater can be discarded to add 1 damage to the final attack.
-3. Take the value from the highest result remaining, adding assist damage.
-4. Subtract the target's Armor and Cover.
-5. The attack inflicts damage equal to the remaining total, and applies any effects from the source of the highest result. 
+2. **Augments**: damage results of 4 or greater can be discarded to add 1 damage to the final attack.
+3. Take the value from the highest result remaining, adding augmented damage.
+4. Subtract the target's Armor.
+5. The attack inflicts damage equal to the remaining total and applies any effects from the source of the highest result, e.g. _piercing_, _shred_, _smart_, etc.
 
 ## Attack Modifiers
 
-**Edges** are gained on attacks for every advantage you have over a target (such as high ground). Every Edge improves the damage die one step, up to d12. For example, a Sniper Rifle (d8) attack with one Edge would instead do d10 damage. With two Edges it is d12 damage.
+**Edges** are gained on attacks for every advantage you have over a target (such as high ground). Every Edge adds an additional weapon die to the attack. For example, a Sniper Rifle (d8) attack with one Edge would instead do d8+d8 damage. With two Edges it becomes d8+d8+d8 damage.
 
-**Impaired** attacks always do d4 damage, and cannot be improved by Edges.
+**Dual-wielding** attacks roll both damage dice as a single attack action.
 
-**Dual-wielding** attacks roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+**Burst** attacks gain an Edge, at the cost of **Reload** checks being harder.
 
-**Burst** attacks roll the weapon damage dice twice and keep the single highest result (same as dual-wielding).
+**Suppress** attacks consume one Ammo and make an _impaired_ _blast_ attack. Until their next turn, targets are _impaired_ and must make a CTR save to move.
 
-**Suppress** attacks consume one Ammo and make an _impaired_ attack with the _blast_ tag. Until their next turn, targets are _impaired_ and must make a CTR save to move.
+**Aimed** attacks are performed by first using an action to designate a target you can see. On your next turn, roll a d12 instead of the normal weapon die when attacking that target.
 
-**Aim** for a turn by designating a target you can see. On your next turn, your attack on that target deals maximum damage. A target that completely leaves your line of sight breaks your Aim.
+**Impaired** attacks roll a d4 instead of their normal weapon die, and cannot be improved.
 
-
-
-## Protection
-
-### Armor
+## Armor
 
 Before calculating Damage to Stamina, subtract the target's **Armor** value from the result of damage rolls. 
 
@@ -62,26 +58,24 @@ Helmets and similar armor provide bonus protection (e.g. +1 Armor), but only whi
 
 A PC, NPC, or other creatures cannot have more than 3 Armor.
 
-### Cover
-
-Before calculating Damage to Stamina, subtract the target's **Cover** value from the result of damage rolls, before subtracting Armor. Combining cover with armor allows incoming damage to be reduced by _more than 3_.
-
-Cover has two tiers: 
-
-- **Light Cover** (+1 cover) such as wooden crates or a short wall.
-- **Heavy Cover** (+2 cover) such as concrete pillars or a large vehicle.
-
-Attacks from behind **Heavy Cover** are _Impaired_. 
-
-Cover can be negated by flanking to get an unobstructed view of your target, or it can be destroyed with _destructive_ weapons. 
-
-### Buffer
+## Buffer
 
 Before calculating Stress to Stamina, subtract the target's **Buffer** value from the result of stress rolls. Buffer also applies to self-inflicted stress.
 
 Cyberdecks and similar devices provide bonus protection (e.g. +1 Buffer), but only while the item is held, worn, or installed.
 
 A PC, NPC, or other creatures cannot have more than 3 Buffer.
+
+## Protection
+
+The environment can help to provide additional protective features during combat:
+
+- **Cover** such as wooden crates or short walls provide +1 Armor. 
+- **Barriers** such as concrete pillars or large vehicles break line of sight, making ranged attacks impossible. 
+
+Attacking from behind Barriers result in it counting as Cover until their next turn.
+
+Environmental protection can be negated by flanking to get an unobstructed view of your target, and Cover can be destroyed with _destructive_ weapons. 
 
 ## Ranged Attacks
 
@@ -101,15 +95,17 @@ Some effects specify a range at which they apply. Use the following ranges as a 
 
 Every Ammo takes one inventory slot. Ammo is shareable between weapons in the same ammo type; **Handgun**, **Rifle**, **Shotgun**, **Explosive**, and **Arrow**.
 
-After combat, make a _reload_ check:
+After combat, make a **Reload** check:
 
 1. For any firearm used make an AGL save. If you used a _burst_ attack, roll twice and take the worse result.
-2. On a failure, you must reload discarding one Ammo of that weapon type from your inventory.
+2. On a failure, you must reload discarding 1 Ammo of that weapon type from your inventory.
 3. On a success, you keep your Ammo.
+
+If you have no Ammo for your current weapon's ammo type you can no longer use that weapon.
 
 If a weapon has the _reload_ tag, you must discard 1 Ammo after every attack.
 
-If you have no Ammo for your current weapon's ammo type you can no longer use that weapon.
+
 
 ## Critical Damage
 
@@ -129,7 +125,7 @@ Upon taking **Critical Stress**, PCs are **Overloaded**, and add a **Strain** to
 
 **Overloaded** PCs cannot take any actions that will inflict stress on themselves until they recover at least 1 Stamina.
 
-NPCs and monsters that fail a Critical Stress save must make a morale check, per the Admin's discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical stress save.
+NPCs and monsters that fail a Critical Stress save lose their next action, per the Admin's discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical stress save.
 
 ## Attribute Loss
 
