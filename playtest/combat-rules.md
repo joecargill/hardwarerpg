@@ -99,17 +99,17 @@ Some effects specify a range at which they apply. Use the following ranges as a 
 
 ## Ammo & Reloading
 
-Every Ammo takes one inventory slot. Ammo is shareable between weapons in the same Ammo Group; **Handgun**, **Rifle**, **Shotgun**, **Explosive**, and **Arrow**.
+Every Ammo takes one inventory slot. Ammo is shareable between weapons in the same ammo type; **Handgun**, **Rifle**, **Shotgun**, **Explosive**, and **Arrow**.
 
 After combat, make a _reload_ check:
 
-1. For any firearm used make an AGL save. If you used a _autofire_ attack, roll twice and take the worse result.
+1. For any firearm used make an AGL save. If you used a _burst_ attack, roll twice and take the worse result.
 2. On a failure, you must reload discarding one Ammo of that weapon type from your inventory.
 3. On a success, you keep your Ammo.
 
 If a weapon has the _reload_ tag, you must discard 1 Ammo after every attack.
 
-When changing Ammo type in combat, you must discard your current Ammo from your inventory. For example, if you attack with standard Rifle Ammo once then make your next attack with Explosive Rifle Ammo, you must discard the standard Rifle Ammo.
+If you have no Ammo for your current weapon's ammo type you can no longer use that weapon.
 
 ## Critical Damage
 
