@@ -66,16 +66,16 @@ nav_order: 1
 
 ### Rifles
 
-|                                                                                     |        |
-| ----------------------------------------------------------------------------------- | ------ |
-| **CheapMart AutoShot**, Assault Rifle (d6, _bulky_, _burst_, _unreliable_)          | 900    |
-| **EuroArms Accord**, Assault Rifle (d6, _burst_, _suppress_)                        | 1,500  |
-| **Volkov Striker**, Assault Rifle (d8, _bulky_, _burst_, _unreliable_)              | 1,500  |
-| **Kuang X.20**, Assault Rifle (d8, _bulky_, _burst_, _suppress_)                    | 3,000  |
-| **SW Model 2000 Hunter**, Sniper Rifle (d10, _bulky_, _precise_, _retro_)           | 8,000  |
-| **DEFTECH R7-Intercess**, Sniper Rifle (d10, _bulky_, _precise_)                    | 10,000 |
-| **Onizuka Shinobi**, Sniper Rifle (d12, _bulky_, _precise_)                         | 18,000 |
-| **DEFTECH L2-Heavy**, Heavy Machine Gun (d10, _bulky_, _slow_, _blast_, _suppress_) | 15,000 |
+|                                                                               |        |
+| ----------------------------------------------------------------------------- | ------ |
+| **CheapMart AutoShot**, Assault Rifle (d6, _bulky_, _autofire_, _unreliable_) | 900    |
+| **EuroArms Accord**, Assault Rifle (d6, _autofire_)                           | 1,500  |
+| **Volkov Striker**, Assault Rifle (d8, _bulky_, _autofire_, _unreliable_)     | 1,500  |
+| **Kuang X.20**, Assault Rifle (d8, _bulky_, _autofire_)                       | 3,000  |
+| **SW Model 2000 Hunter**, Sniper Rifle (d10, _bulky_, _precise_, _retro_)     | 8,000  |
+| **DEFTECH R7-Intercess**, Sniper Rifle (d10, _bulky_, _precise_)              | 10,000 |
+| **Onizuka Shinobi**, Sniper Rifle (d12, _bulky_, _precise_)                   | 18,000 |
+| **DEFTECH L2-Heavy**, Heavy Machine Gun (d10, _bulky_, _slow_, _autofire_)    | 15,000 |
 
 
 ### Shotguns
@@ -83,9 +83,9 @@ nav_order: 1
 |                                                                                  |       |
 | -------------------------------------------------------------------------------- | ----- |
 | **SW Buckshot**, Double-barrel Shotgun (d4, _bulky_, _blast_, _reload_, _retro_) | 150   |
-| **EuroArms Veto**, Hand Shotgun (d4, _shred_)                                    | 900   |
+| **EuroArms Veto**, Hand Shotgun (d4, _shred_)            | 900   |
 | **Onizuka Antibody**, Combat Shotgun (d6, _bulky_, _shred_)                      | 2,000 |
-| **Kuang AP.2**, Automatic Shotgun (d6, _bulky_, _burst_, _shred_)                | 5,000 |
+| **Kuang AP.2**, Automatic Shotgun (d6, _bulky_, _autofire_, _shred_)                | 5,000 |
 
 ### Explosives
 
@@ -107,11 +107,11 @@ nav_order: 1
 
 ### Smart
 
-|                                                                            |        |
-| -------------------------------------------------------------------------- | ------ |
-| **Aegis Vector**, Smart Pistol (d4, _smart_)                               | 1,200  |
-| **Aegis Surge**, Smart SMG (d4, _smart_, _blast_)                          | 6,000  |
-| **Aegis Fractal**, Smart Rifle (d6, _bulky_, _smart_, _burst_, _suppress_) | 11,000 |
+|                                                                   |        |
+| ----------------------------------------------------------------- | ------ |
+| **Aegis Vector**, Smart Pistol (d4, _smart_)                      | 1,200  |
+| **Aegis Surge**, Smart SMG (d4, _smart_, _blast_)                 | 6,000  |
+| **Aegis Fractal**, Smart Rifle (d6, _bulky_, _smart_, _autofire_) | 11,000 |
 
 
 ### Attachments

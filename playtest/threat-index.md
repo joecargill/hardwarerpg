@@ -25,20 +25,20 @@ nav_order: 6
 
 ## Automated Turret
 
-0 Stamina, 1 Armor, 10 BOD, 10 CTR, heavy chaingun (d10, _blast_)
+1 Stamina, 1 Armor, 10 BOD, 10 CTR, heavy chaingun (d10, _blast_)
 
 - Stationary defence.
 
 ## Chimera Tank
 
-15 Stamina, 3 Armor, 16 BOD, 8 AGL, 10 CTR, thermal beam (d12, _blast_), _hardened_
+12 Stamina, 3 Armor, 16 BOD, 8 AGL, 10 CTR, thermal beam (d12, _blast_), _hardened_
 
 - A walking tank designed for pacifying entire city blocks.
 - **Recharge Protocol**: Can spend a full turn recovering 2d6 Stamina
 
 ## Corpo Operator
 
-8 Stamina, 1 Armor, 1 Buffer, 12 BOD, 14 AGL, 10 CTR, assault rifle (d8, _autofire_, _suppress_)
+6 Stamina, 1 Armor, 1 Buffer, 12 BOD, 14 AGL, 10 CTR, assault rifle (d8, _autofire_, _suppress_)
 
 - Highly trained corporate hitmen.
 
@@ -52,7 +52,7 @@ nav_order: 6
 
 ## Industrial Servitor
 
-4 Stamina, 1 Armor, 8 BOD, 4 AGL, 6 CTR, hydraulic clamps (d10)
+2 Stamina, 1 Armor, 8 BOD, 4 AGL, 6 CTR, hydraulic clamps (d10)
 
 - Repurposed dock workers or factory lifters. Slow, hulking, and incredibly dangerous in close quarters.
 - **Slow Processing**: their attacks against targets that have recently moved are _impaired_.
@@ -60,7 +60,7 @@ nav_order: 6
 
 ## Metalhead Hound
 
-6 Stamina, 1 Armor, 8 BOD, 14 AGL, 6 CTR, titanium jaws (d8)
+4 Stamina, 1 Armor, 8 BOD, 14 AGL, 6 CTR, titanium jaws (d8)
 
 - Quadrupedal security robots used for perimeter defense. Fast rushers.
 - Will focus all attacks on the first person to deal damage to them, and do not switch targets.
