@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core Rules
-parent: Playtest v0.2
+parent: Playtest v0.3
 nav_order: 1
 ---
 
@@ -95,19 +95,13 @@ A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually
 
 ## Cyberware
 
-**Cyberware** can be installed to grant characters unique abilties, reducing Max CTR by 1. It does not occupy an inventory slot once installed.
-
-Most cyberware has passive effects, providing a constant benefit to characters. Some cyberware have **Triggers** for active effects, at the cost of taking Stress.
+**Cyberware** can be installed to grant characters unique abilties, but permanently reduce your CTL. Installed cyberware does not occupy inventory space, allowing your PC to expand their capabilities beyond normal limits. 
 
 See [Cyberware](/playtest/cyberware-and-hacks#cyberware) for more.
 
 ## Hacks
 
-**Modules** contain a single hack and take up one slot. They cannot be easily copied or created; instead they are recovered from corporate datastores or purchased from blackmarket dealers.
-
-**Deploying Hacks** requires a *Cyberdeck*, taking 10 seconds to activate the Module. Deploying hacks inflicts Stress on the user equal to a roll of the Module's die. 
-
-Hacks will attract the attention of NetCops and other hackers, and it is considered dangerous to use them openly.
+**Hacks** allow for wireless manipulation of electronics and networking, providing powerful utility. Using hacks requires holding a _cyberdeck_, and having the hack in your inventory. Hacks cannot be easily copied or created; instead they are recovered from corporate data stores or purchased from blackmarket dealers.
 
 See [Hacks](/playtest/cyberware-and-hacks#hacks) for more.
 

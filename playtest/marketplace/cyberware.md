@@ -25,7 +25,7 @@ nav_order: 4
 | Projectile Launch System | (d8, _blast_, _destructive_, _reload_) Arm-mounted grenade launcher. _Concealed_ inside arm until used. Uses explosive ammo. | 2,500  |
 | Molly Razors             | (d4+d4 _piercing_) Four centimeter long blades under fingernails. _Concealed_ inside hands until used.                       | 1,500  |
 | Arm Blades               | (d8+d8) Long, piercing arm-mounted blades. _Concealed_ inside arms until used.                                               | 4,000  |
-| Anchor Arms              | (d8 unarmed) Synthetic-muscle arms replacement. Excel at tasks requiring raw strength, e.g. lifting, pulling.                | 8,000  |
+| Anchor Arms              | (d6 unarmed) Synthetic-muscle arms replacement. Excel at tasks requiring raw strength, e.g. lifting, pulling.                | 8,000  |
 | Monowire                 | (d6 _piercing_) Carbon filament wire with a monomolecular edge. _Concealed_ inside hand until used.                          | 12,500 |
 
 ### Enhancements

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combat Rules
-parent: Playtest v0.2
+parent: Playtest v0.3
 nav_order: 2
 ---
 
